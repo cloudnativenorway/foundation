@@ -8,6 +8,6 @@ Cloud Native Norway (CNN) is a non-profit organisation created to help build com
 
 | Name              | Role                      | Email                          |
 |:------------------|:--------------------------|:-------------------------------|
-| Roberth Strand    | Co-Chair, Primary Contact | roberth@cloudnativenorway.org  |
-| Kristina Devochko | Co-Chair                  | kristina@cloudnativenorway.org |
-| Magnhild Eltoft   | Boardmember               | magnhild@cloudnativenorway.org |
+|Roberth Strand    | Co-Chair, Primary Contact |roberth@cloudnativenorway.org  |
+|Kristina Devochko | Co-Chair                  |kristina@cloudnativenorway.org |
+|Magnhild Eltoft   | Boardmember               |magnhild@cloudnativenorway.org |
